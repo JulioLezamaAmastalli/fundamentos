@@ -9,8 +9,7 @@ Estadística de la Universidad de Yale) publicó cuatro conjuntos de dato. Cada
 uno consiste de 11 observaciones. La peculariedad de estos conjuntos es 
 que tienen las mismas propiedades estadísticas.
 
-Sin embargo, cuando analizamos los datos de manera gráfica en un histograma
-encontramos rápidamente que los conjuntos de datos son muy distintos.
+Sin embargo, cuando analizamos los datos de manera gráfica en una gráfica de dispersión encontramos rápidamente que los conjuntos de datos son muy distintos.
 
 :::::: {.cols data-latex=""}
 
